@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": "false",
   "license": "MIT",
-  "homepage": "http://ianabad.github.io/portfolio",
   "dependencies": {
     "@carbon/icons-react": "^10.44.0",
     "@carbon/themes": "^10.48.0",
