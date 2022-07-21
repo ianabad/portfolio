@@ -4,6 +4,7 @@
   "private": "false",
   "license": "MIT",
   "homepage": "https://ianabad.github.io/portfolio/",
+  
   "dependencies": {
     "@carbon/icons-react": "^10.44.0",
     "@carbon/themes": "^10.48.0",
