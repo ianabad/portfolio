@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": "false",
-  "homepage": "https://ianabad.github.io/portfolio/",
+  "homepage": ".",
 
   "dependencies": {
     "@carbon/icons-react": "^10.44.0",
