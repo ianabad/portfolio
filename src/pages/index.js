@@ -8,7 +8,7 @@ import Education from './Education';
 // remove browserrouter and remove portfolio if it does not work
 const Pages = ({ user }) => {
   return (
-    <Router basename='/portfolio'>
+    <Router>
       <Routes>
         <Route exact path="/" element={<Me user={user} />} />
         <Route path="/projects" element={<Projects user={user} />} />
